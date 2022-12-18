@@ -10,7 +10,7 @@ struct CouponDaddy: App {
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, Testing world!")
     }
 }
 
